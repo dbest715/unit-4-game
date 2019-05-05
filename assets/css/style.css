@@ -1,0 +1,32 @@
+body {
+    margin:auto;
+    padding:0;
+    background-image: url("../images/Background-Image.png")
+  }
+
+#pagetitle {
+    background-color: rgb(230, 221, 132);
+    width: 255px;
+}
+
+.instructions {
+    background-color: rgb(235,155,131);
+    width: 600px;
+}
+
+.randomnumber{
+    background-color: rgb(255,136,125);
+}
+.winsloses {
+    background-color: rgb(230, 221, 132);
+    margin-left: 400px;
+    width: 150px;
+}
+
+.totalscoretext {
+    background-color: rgb(255,136,125);
+}
+
+.totalscorenum {
+    background-color: rgb(235,155,131);
+}
